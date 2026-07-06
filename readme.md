@@ -2,7 +2,7 @@
 
 ## Membuat Program Interaktif Hitung Luas dan Keliling Lingkaran
 
-## Implemengtasi nya
+## Implementasi nya
 1. Buatkan 2 fungsi untuk menghitung luas dan keliling lingkaran dengan isi parameter jari jari yaitu r dengan tipe data integer dan point dari kedua ini yaitu menghasilkan nilai float32
 
 ```go
